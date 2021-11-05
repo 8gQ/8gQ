@@ -15,16 +15,14 @@
   </a><span>&nbsp;</span>
 </p>
 <h3 align="center">A Junior Computer Science Student</h3>
-
 <br>
-
 <br>
   <a href="https://github.com/8gQ">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=8gQ&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="hamod's github stats" height="220px" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=8gQ&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="hamod's github stats" height="180em" width="100%" />
   </a>
-
-
+<br>
+<br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=8gQ.408179647)
-
+<img src="https://komarev.com/ghpvc/?username=8gQ"/>
 ------
