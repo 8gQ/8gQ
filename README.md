@@ -25,9 +25,6 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8gQ&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=8gQ&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=8gQ&theme=gruvbox&hide_border=true&area=true)
 <br><br>
 Here are some 🦜 parrots:
 
